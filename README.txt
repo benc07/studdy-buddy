@@ -6,6 +6,7 @@
 
 4. Some screenshots of your app (highlight important features)
 
+
 5. Users sign in with their Google account, then add Cornell courses and sessions to their profile to build their course schedule. They can search based on course and session preferences, and the app will recommend the top 10 users who share the same courses, sessions, or optional interests.
 
 6.
@@ -62,6 +63,6 @@ Design:
 
 
 
-7. 
+7. We attempted to try Web Socket, but didn't fully finish it. We included the two files server.py and client.py for Web Socket in our repo.
 
 Note: The link, screenshots, and description will be used for the Hack Challenge website where we will showcase everyone’s final projects
