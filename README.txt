@@ -10,7 +10,6 @@
 
 6.
 Backend:
-
 [Login Authentication]
 Routes: POST(Google OAuth login)
 Google login auto creates a User row in the USER TABLE
