@@ -8,8 +8,9 @@
 
 5. Users sign in with their Google account, then add Cornell courses and sessions to their profile to build their course schedule. They can search based on course and session preferences, and the app will recommend the top 10 users who share the same courses, sessions, or optional interests.
 
-6. 
+6.
 Backend:
+
 [Login Authentication]
  Routes: POST(Google OAuth login)
  Google login auto creates a User row in the USER TABLE
