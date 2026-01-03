@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  app:
+    image: katiellevaden/hacker:v2
+    env_file:
+      - .env
+    ports:
+      - "8080:8000"
